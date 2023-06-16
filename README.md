@@ -1,2 +1,3 @@
-# C-Sharp-Discord-Bot-Ornek-Proje
-C# İle Yapılmış Basit ve Küçük Bir Proje
+# Örnek Olması İçin Atılmıştır
+# İlk Gelişim Zamanlarında Yapılan 2 - 2.5 Senelik Projelerdir 
+
